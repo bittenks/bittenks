@@ -1,16 +1,16 @@
-### Hi there 👋
+ # <a href="https://www.linkedin.com/in/guilherme-corr%C3%AAa-2762621b6/">Guilherme Bittencourt</a>
+ 
+## About Me
+Tenho 20 anos e sou técnico em informática pela ETEC Centro Paula Souza (Barretos-SP), formado em 2017. Atualmente, sou estudante de Sistemas de Informação na UEMG - Universidade Estadual de Minas Gerais (Frutal, MG). 
+<br>
+Sou um aspirante a desenvolvedor Web.
 
-<!--
-**bittenks/bittenks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies
+- Front - End com HTML, CSS, JS,ReactJS
+- Wordpress
 
-Here are some ideas to get you started:
+**Languages and Tools:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
