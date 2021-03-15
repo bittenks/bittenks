@@ -1,5 +1,7 @@
  # <a href="https://www.linkedin.com/in/guilherme-corr%C3%AAa-2762621b6/">Guilherme Bittencourt</a>
  
+ 
+![Github visitors](https://komarev.com/ghpvc/?username=bittenks&color=7159c0&style=flat-square)
 ## About Me
 Tenho 20 anos e sou técnico em informática pela ETEC Centro Paula Souza (Barretos-SP), formado em 2017. Atualmente, sou estudante de Sistemas de Informação na UEMG - Universidade Estadual de Minas Gerais (Frutal, MG). 
 <br>
