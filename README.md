@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/guilherme-corr%C3%AAa-2762621b6/">Guilherme Bittencourt</a><img align="center" alt="Boba" height="60" width="80" src="https://media.tenor.com/images/b14cf031a0bb952d5782fb318307af52/tenor.gif">
+ # <a href="https://www.linkedin.com/in/guilherme-corr%C3%AAa-2762621b6/">Guilherme Bittencourt</a><img align="center" alt="Boba" height="80" width="80" src="https://media.tenor.com/images/b14cf031a0bb952d5782fb318307af52/tenor.gif">
  
  
 ![Github visitors](https://komarev.com/ghpvc/?username=bittenks&color=7159c0&style=flat-square)
