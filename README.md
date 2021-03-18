@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/guilherme-corr%C3%AAa-2762621b6/">Guilherme Bittencourt</a>
+ # <a href="https://www.linkedin.com/in/guilherme-corr%C3%AAa-2762621b6/">Guilherme Bittencourt</a><img align="center" alt="Rafa-yoda" height="60" width="80" src="https://tenor.com/view/bounty-hunter-gif-13197175">
  
  
 ![Github visitors](https://komarev.com/ghpvc/?username=bittenks&color=7159c0&style=flat-square)
