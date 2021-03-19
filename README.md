@@ -12,11 +12,11 @@ Desenvolvedor Web.
 - Wordpress
 - Python ( Iniciação Científica )
 
-<a>
+<a href="https://github.com/bittenks" target="_blank">
  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bittenks&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bittenks&layout=compact&langs_count=8&theme=dracula"/>
  <a/>
-**Languages and Tools:**  
+## Languages and Tools:  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
