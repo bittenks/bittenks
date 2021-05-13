@@ -3,7 +3,7 @@
  
 ![Github visitors](https://komarev.com/ghpvc/?username=bittenks&color=7159c0&style=flat-square)
 ## About Me
-Tenho 20 anos e sou técnico em informática pela ETEC Centro Paula Souza (Barretos-SP), formado em 2017. Atualmente, sou estudante de Sistemas de Informação na UEMG - Universidade Estadual de Minas Gerais (Frutal, MG). 
+Tenho 21 anos e sou técnico em informática pela ETEC Centro Paula Souza (Barretos-SP), formado em 2017. Atualmente, sou estudante de Sistemas de Informação na UEMG - Universidade Estadual de Minas Gerais (Frutal, MG). 
 <br>
 Desenvolvedor Web.
 
