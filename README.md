@@ -5,7 +5,7 @@
 ## About Me
 Tenho 21 anos e sou técnico em informática pela ETEC Centro Paula Souza (Barretos-SP), formado em 2017. Atualmente, sou estudante de Sistemas de Informação na UEMG - Universidade Estadual de Minas Gerais (Frutal, MG). 
 <br>
-Desenvolvedor Web.
+Desenvolvedor Web
 
 ## Technologies
 - Front - End com HTML, CSS, JS, ReactJS | Typescript 
