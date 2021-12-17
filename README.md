@@ -29,6 +29,11 @@ Desenvolvedor Web
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+ 
+## Lists
+  <a href="https://github.com/stars/bittenks/lists/estudos">🤔 Estudos</a>
+  <a href="https://github.com/stars/bittenks/lists/faculdade">🤯 Faculdade</a>
+  <a href="https://github.com/stars/bittenks/lists/personal-projects">😎 Personal Projects</a>
 
 
 ##  Contact Me
