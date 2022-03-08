@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/guilherme-corr%C3%AAa-2762621b6/">Guilherme Bittencourt</a><img align="center" alt="Boba" height="100" width="100" src="https://64.media.tumblr.com/0a92f3a539c73fb48730bf0bd5a5a1dd/a16a9e8cc810c0de-d3/s400x600/c64786701145a600c09446237a22750973ead896.gif">
+ # <a href="https://www.linkedin.com/in/guilherme-corr%C3%AAa-2762621b6/">Guilherme Bittencourt</a><img align="center" alt="Boba" height="100" width="100" src="https://thumbs.gfycat.com/AmazingDazzlingFrog-max-1mb.gif">
  
  
 ![Github visitors](https://komarev.com/ghpvc/?username=bittenks&color=7159c0&style=flat-square)
