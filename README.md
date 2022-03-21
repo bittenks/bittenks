@@ -8,7 +8,7 @@ Tenho 21 anos e sou técnico em informática pela ETEC Centro Paula Souza (Barre
 Desenvolvedor Web
 
 ## Technologies
-- Front - End com HTML, CSS, JS, ReactJS | Typescript 
+- Front - End com HTML, CSS, JS, ReactJS 
 - Wordpress
 - Python ( Iniciação Científica )
 
