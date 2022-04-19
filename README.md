@@ -1,12 +1,12 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/bittenks/bittenks/4338c63f488b22498b583d11912a3dbcd400f172/Mobile.svg"/>
-## <a href="https://www.linkedin.com/in/guilherme-corr%C3%AAa-2762621b6/">Guilherme Bittencourt</a><img align="center" alt="Boba" height="100" width="100" src="https://thumbs.gfycat.com/AmazingDazzlingFrog-max-1mb.gif">
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Bittencourt Corrêa</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bittenks&color=green" alt="Profile views" /> </p>
  
- 
-![Github visitors](https://komarev.com/ghpvc/?username=bittenks&color=7159c0&style=flat-square)
 ## About Me
-Tenho 21 anos e sou técnico em informática pela ETEC Centro Paula Souza (Barretos-SP), formado em 2017. Atualmente, sou estudante de Sistemas de Informação na UEMG - Universidade Estadual de Minas Gerais (Frutal, MG). 
-<br>
-Desenvolvedor Web
+- 🔥 Junior Programming Analyst
+
+- 🔭 I’m currently working at [Obuc](https://github.com/Obuc)
+
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -22,8 +22,8 @@ Desenvolvedor Web
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=bittenks&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittenks&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="330em" src="https://github-readme-stats.vercel.app/api?username=bittenks&show_icons=true&theme=vision-friendly-dark" alt="bittenks's stats"/>
+<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittenks&layout=compact&theme=vision-friendly-dark" alt="bittenks's most languages"/>
 </p>
 
 <br><br>
@@ -40,14 +40,5 @@ Desenvolvedor Web
 <a href="https://instagram.com/bittenks_" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-bittenks-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-
 </p>
- 
-## Lists
-  ### <a href="https://github.com/stars/bittenks/lists/estudos">🤔 Estudos</a>
-  ### <a href="https://github.com/stars/bittenks/lists/faculdade">🤯 Faculdade</a>
-  ### <a href="https://github.com/stars/bittenks/lists/personal-projects">😎 Personal Projects</a>
-
-
-
 </div>
