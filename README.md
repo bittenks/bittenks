@@ -1,4 +1,5 @@
- # <a href="https://www.linkedin.com/in/guilherme-corr%C3%AAa-2762621b6/">Guilherme Bittencourt</a><img align="center" alt="Boba" height="100" width="100" src="https://thumbs.gfycat.com/AmazingDazzlingFrog-max-1mb.gif">
+<img align="right" height="590em" src="https://raw.githubusercontent.com/bittenks/bittenks/4338c63f488b22498b583d11912a3dbcd400f172/Mobile.svg"/>
+## <a href="https://www.linkedin.com/in/guilherme-corr%C3%AAa-2762621b6/">Guilherme Bittencourt</a><img align="center" alt="Boba" height="100" width="100" src="https://thumbs.gfycat.com/AmazingDazzlingFrog-max-1mb.gif">
  
  
 ![Github visitors](https://komarev.com/ghpvc/?username=bittenks&color=7159c0&style=flat-square)
@@ -7,31 +8,40 @@ Tenho 21 anos e sou técnico em informática pela ETEC Centro Paula Souza (Barre
 <br>
 Desenvolvedor Web
 
-## Technologies
-- Front - End com HTML, CSS, JS, ReactJS 
-- Wordpress
-- Python ( Iniciação Científica )
+## 🛠 &nbsp;Tech Stack
 
-<a href="https://github.com/bittenks" target="_blank">
- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bittenks&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bittenks&layout=compact&langs_count=8&theme=dracula"/>
- <a/>
- 
- <br/>
- 
- ## Skills:  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<br><br>
+## ⚙️ &nbsp;GitHub Analytics
 
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
-![image](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=bittenks&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittenks&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
 
+<br><br>
+
+## 😎 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/bittenks" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-bittenks-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://br.linkedin.com/in/guilherme-corr%C3%AAa-bittenks" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-bittenks-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/bittenks_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-bittenks-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
+</p>
  
 ## Lists
   ### <a href="https://github.com/stars/bittenks/lists/estudos">🤔 Estudos</a>
@@ -39,10 +49,5 @@ Desenvolvedor Web
   ### <a href="https://github.com/stars/bittenks/lists/personal-projects">😎 Personal Projects</a>
 
 
-##  Contact Me
-  <a href="https://www.linkedin.com/in/guilherme-corr%C3%AAa-2762621b6/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)</a>
-  <a href="mailto:guilhermebittencourtcorrea@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  <a href="https://instagram.com/bittenks_">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 </div>
