@@ -22,8 +22,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="330em" src="https://github-readme-stats.vercel.app/api?username=bittenks&show_icons=true&theme=vision-friendly-dark" alt="bittenks's stats"/>
-<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittenks&layout=compact&theme=vision-friendly-dark" alt="bittenks's most languages"/>
+<img width="230em" src="https://github-readme-stats.vercel.app/api?username=bittenks&show_icons=true&theme=vision-friendly-dark" alt="bittenks's stats"/>
+<img width="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittenks&layout=compact&theme=vision-friendly-dark" alt="bittenks's most languages"/>
 </p>
 
 <br><br>
