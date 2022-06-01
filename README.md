@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/bittenks/bittenks/4338c63f488b22498b583d11912a3dbcd400f172/Mobile.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Bittencourt Corrêa</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm Guilherme Bittencourt Corrêa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bittenks&color=green" alt="Profile views" /> </p>
 
 - 🔥 Junior Programming Analyst
