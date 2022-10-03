@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working at [Obuc](https://github.com/Obuc)
 
+[![@bittenks's Holopin board](https://holopin.io/api/user/board?user=bittenks)](https://holopin.io/@bittenks)
 
 ## 🛠 &nbsp;Tech Stack
 
