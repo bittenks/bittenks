@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Bittencourt Corrêa</h1>
+<h1 align="left">Hi, I'm Guilherme Bittencourt Corrêa <img src="https://media4.giphy.com/media/d7fmqELABC69ejVgf6/giphy.gif?cid=6c09b952ed3cba94310341aac1c2fb0ab04fd5567cd8f181&rid=giphy.gif&ct=s" width="100px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bittenks&color=green" alt="Profile views" /> </p>
 
 - 🔥 Junior Programming Analyst
