@@ -1,40 +1,64 @@
 
-<h1 align="left">Hi, I'm Guilherme Bittencourt Corrêa <img src="https://media4.giphy.com/media/d7fmqELABC69ejVgf6/giphy.gif?cid=6c09b952ed3cba94310341aac1c2fb0ab04fd5567cd8f181&rid=giphy.gif&ct=s" width="100px"></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bittenks&color=green" alt="Profile views" /> </p>
-
-- 🔥 Programming Analyst
-
-- 🔭 I’m currently working at [Obuc](https://github.com/Obuc)
-
-[![@bittenks's Holopin board](https://holopin.io/api/user/board?user=bittenks)](https://holopin.io/@bittenks)
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![PowerBi](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<br><br>
+  <img height="200" src="https://i.gifer.com/nql.gif"  />
 
 
-## 😎 &nbsp;Social Links
+###
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/bittenks" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-bittenks-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://br.linkedin.com/in/guilherme-corr%C3%AAa-bittenks" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-bittenks-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/bittenks_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-bittenks-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-corr%C3%AAa-bittenks/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bittenks.bittenks&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Guilherme from Brazil<br><br>- 🔭 I’m working as Programming Analyst<br>- 📚 I'm currently learning Postgraduate course in fullstack development<br>- ⚡ In my free time I play, read , gym</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bittenks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bittenks&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
