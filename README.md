@@ -1,5 +1,11 @@
 <div align="center">
-   <img src="https://media1.tenor.com/m/gfOoU4WYBe4AAAAC/luffy.gif" height="200" alt="linkedin logo"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bittenks.bittenks&"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif"  />
 </div>
 
 ###
@@ -9,16 +15,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bittenks.bittenks&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
