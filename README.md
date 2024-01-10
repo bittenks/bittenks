@@ -1,11 +1,9 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bittenks.bittenks&"  />
-</div>
+
 
 ###
 
 <div align="center">
-  <img height="200" src="https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif"  />
+  <img height="100%" width="100%" src="https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif"  />
 </div>
 
 ###
