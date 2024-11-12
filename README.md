@@ -39,6 +39,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />  
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
